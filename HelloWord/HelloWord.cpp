@@ -8,6 +8,7 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
     std::cout << "Hello Word!\n";
+    std::cout << "Hello 1 commit!\n";
 	return 0;
 }
 

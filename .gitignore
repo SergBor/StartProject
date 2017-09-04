@@ -1,3 +1,5 @@
 /Debug
 /HelloWord/Debug
 /*.sdf
+/*.opensdf
+/ipch/helloword-968a0ada/*.ipch
