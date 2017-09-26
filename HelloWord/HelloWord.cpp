@@ -11,6 +11,7 @@ int _tmain(int argc, _TCHAR* argv[])
     std::cout << "Hello 1 commit!\n";
     std::cout << "Hello 2.0 commit!\n";
     std::cout << "Hello 3.0 commit!\n";
+    std::cout << "Hello 4.0 commit!\n";
     
 
   return 0;
