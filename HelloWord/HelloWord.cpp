@@ -11,6 +11,5 @@ int _tmain(int argc, _TCHAR* argv[])
     std::cout << "Hello 1 commit!\n";
     std::cout << "Hello 2 commit!\n";
     std::cout << "Hello 3 commit!\n";
-	return 0;
+    return 0;
 }
-
